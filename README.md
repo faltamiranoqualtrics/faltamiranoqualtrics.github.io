@@ -1,3 +1,2 @@
-# QImpl_QAF
-For testing intercepts
+# For testing intercepts
 https://repositoryname/index.html
